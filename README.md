@@ -6,3 +6,5 @@
 #hello Adam
 *Hello in italics!*
 __And Hello in bold__
+*woah* _cool_
+## thanks for that Adam
